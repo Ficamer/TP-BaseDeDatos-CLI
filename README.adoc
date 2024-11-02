@@ -1,7 +1,5 @@
 = Bases de Datos 1: Trabajo Práctico Final
 
-Docentes: Daniel Bertaccini y Hernan Rondelli (COM-02)
-
 :title-page: Trabajo Práctico Final
 :numbered:
 :source-highlighter: coderay
