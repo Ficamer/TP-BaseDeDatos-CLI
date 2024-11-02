@@ -1,11 +1,5 @@
 = Bases de Datos 1: Trabajo Práctico Final
 
-- Alumnos:
-	* Augusto Fuentes <augustofuentes11@gmail.com>;
-	* Luna Maria <luna22012001@gmail.com>; 
-	* Lucas Joel Quintana <lucasjoelquintana@gmail.com>;
-	* Joaquin Gabriel Tonizzo <joaquintonizzo1@gmail.com>;
-
 Docentes: Daniel Bertaccini y Hernan Rondelli (COM-02)
 
 :title-page: Trabajo Práctico Final
